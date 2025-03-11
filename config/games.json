@@ -1,9 +1,9 @@
 [
   {
-    "name": "1v1lol",
-    "image": "logo.png",
-    "url": "1v1lol",
-    "new": false
+    "name": "Combat Reloaded",
+    "image": "assets/img/icons/combatreloaded.webp",
+    "url": "g4m3s/Combat_reloaded.html",
+    "new": true
   },
   {
     "name": "1v1space",
